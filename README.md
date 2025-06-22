@@ -3,7 +3,7 @@
 Welcome to the **Customer Personality Analysis** project! This project performs in-depth clustering on marketing campaign data to uncover distinct customer segments. The end goal is to empower businesses to target and serve their customers more effectively.
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1555209183-8facf96a4349?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+  <img src="https://images.unsplash.com/photo-1617040619263-41c5a9ca7521?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%"/>
 </div>
 
 ---
