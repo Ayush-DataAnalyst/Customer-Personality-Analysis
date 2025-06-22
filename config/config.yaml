@@ -1,0 +1,44 @@
+data_ingestion:
+  source_file: "D:/Customer Personality Analysis Project/marketing_campaign.xlsx"
+  output_file: "D:/Customer Personality Analysis Project/marketing_campaign_cleaned.csv"
+
+data_cleaning:
+  cleaned_data_path: "data/processed/cleaned_data.csv"
+
+data_validation:
+  expected_columns:
+    - Year_Birth
+    - Education
+    - Marital_Status
+    - Income
+    - Kidhome
+    - Teenhome
+    - Dt_Customer
+    - Recency
+    - MntWines
+    - MntFruits
+    - MntMeatProducts
+    - MntFishProducts
+    - MntSweetProducts
+    - MntGoldProds
+    - NumDealsPurchases
+    - NumWebPurchases
+    - NumCatalogPurchases
+    - NumStorePurchases
+    - NumWebVisitsMonth
+    - AcceptedCmp3
+    - AcceptedCmp4
+    - AcceptedCmp5
+    - AcceptedCmp1
+    - AcceptedCmp2
+    - Complain
+    - Response
+    - Customer_Age
+    - Total_Spending
+
+  cleaned_data_path: "data/processed/cleaned_data.csv"
+
+
+data_transformation:
+  transformed_data_path: "data/processed/transformed_data.csv"
+  scaler_path: "artifacts/minmax_scaler.pkl"

@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: customer_personality_analysis
+Version: 0.0.1
+Summary: A modular ML pipeline to perform customer personality analysis using clustering
+Home-page: https://github.com/Ayush-DataAnalyst/Customer-Personality-Analysis
+Author: Ayush-DataAnalyst
+Author-email: ayushshimpi02@gmail.com
+License: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy==1.26.4
+Requires-Dist: pandas==2.2.2
+Requires-Dist: scikit-learn==1.5.0
+Requires-Dist: seaborn==0.13.2
+Requires-Dist: matplotlib==3.8.4
+Requires-Dist: jupyter==1.0.0
+Requires-Dist: plotly==5.21.0
+Requires-Dist: xgboost==2.0.3
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

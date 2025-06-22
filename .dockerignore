@@ -1,0 +1,27 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment (if any)
+venv/
+.env/
+*.env
+
+# Ignore system files
+.DS_Store
+
+# Ignore git
+.git/
+.gitignore
+
+# Ignore model files if not needed in the image (optional)
+*.pkl
+*.joblib
+
+# Ignore datasets and artifacts if they aren’t required for building
+*.csv
+*.xlsx
+data/
+artifacts/
