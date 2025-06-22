@@ -10,7 +10,7 @@ Welcome to the **Customer Personality Analysis** project! This project performs 
 
 ## 🚀 Live App
 
-👉 [Try the Streamlit App Here](https://your-streamlit-url.streamlit.app/) *(replace after deploy)*
+👉 [Try the Streamlit App Here](https://customer-personality-analysis-ttkerkaphpwatgzpaeydvp.streamlit.app/)
 
 ---
 
